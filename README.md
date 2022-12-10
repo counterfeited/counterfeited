@@ -1,6 +1,7 @@
 # about
 - student
 - focusing on backend web development 
+- xenforo theme designer
 # current projects
 - [VOLD web panel](https://github.com/VOLDProjects) w/ [@smevold](https://github.com/smevold)
 - discord bot created with [aoi.js](https://aoi.js.org) made to interact with XenForo forums 
